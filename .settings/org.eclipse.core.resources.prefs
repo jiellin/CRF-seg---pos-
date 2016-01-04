@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//data/POS_test.txt=UTF-8
+encoding//data/POS_train.txt=UTF-8
+encoding//data/SEG_test.txt=UTF-8
+encoding//data/SEG_train.txt=UTF-8
+encoding//src/crf_sefment.py=utf-8
+encoding//src/make_crf_test_data.py=utf-8
+encoding//src/make_crf_train_data.py=utf-8
